@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	background-color: #03A9F4;
+	width: 50%;
+	height: 50%;
+}
+
+h3 {
+	text-align: center;
+}
+
+input[type=text], select {
+	background-color: #B3E5FC;
+	display: block;
+}
+
+input[type=text]:focus {
+	background-color: #CDDC39
+}
